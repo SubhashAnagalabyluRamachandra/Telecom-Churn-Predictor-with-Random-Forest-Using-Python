@@ -12,8 +12,8 @@ Key Features
 - Visualization of the confusion matrix and cross-validation scores
 
 Repository Structure
-test.csv: Contains the test dataset in CSV format
-train.csv: Contains the training dataset in CSV format
-CustomerChurn.ipynb: Notebooks with step-by-step code and analysis
-Result.csv: Outputs of the trained model, including predictions and evaluation metrics
-README.md: Overview of the project, instructions, and key information
+- test.csv: Contains the test dataset in CSV format
+- train.csv: Contains the training dataset in CSV format
+- CustomerChurn.ipynb: Notebooks with step-by-step code and analysis
+- Result.csv: Outputs of the trained model, including predictions and evaluation metrics
+- README.md: Overview of the project, instructions, and key information
